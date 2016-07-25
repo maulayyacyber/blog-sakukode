@@ -1,0 +1,18 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-12-28 05:29:54 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:29:54 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:29:54 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:29:54 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:30:00 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:30:00 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:30:00 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:30:00 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:30:11 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:30:11 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:30:11 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:30:11 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2015-12-28 05:31:34 --> Severity: Notice  --> Undefined variable: icon C:\xampp\htdocs\saku\application\views\themes\backend\pages\form\socmed.php 52
+ERROR - 2015-12-28 05:31:34 --> Severity: Notice  --> Undefined variable: icon C:\xampp\htdocs\saku\application\views\themes\backend\pages\form\socmed.php 52
+ERROR - 2015-12-28 05:31:34 --> Severity: Notice  --> Undefined variable: icon C:\xampp\htdocs\saku\application\views\themes\backend\pages\form\socmed.php 52
+ERROR - 2015-12-28 05:31:34 --> Severity: Notice  --> Undefined variable: icon C:\xampp\htdocs\saku\application\views\themes\backend\pages\form\socmed.php 52

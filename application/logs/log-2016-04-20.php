@@ -1,0 +1,16 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-04-20 01:35:41 --> Session: The session cookie was not signed.
+ERROR - 2016-04-20 01:36:20 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:36:20 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:36:20 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:36:20 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:36:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:36:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:36:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:36:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:40:50 --> Session: The session cookie was not signed.
+ERROR - 2016-04-20 01:41:02 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:41:02 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:41:02 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
+ERROR - 2016-04-20 01:41:02 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\saku\application\controllers\sk-admin\post.php:76) C:\xampp\htdocs\saku\system\core\Output.php 391
